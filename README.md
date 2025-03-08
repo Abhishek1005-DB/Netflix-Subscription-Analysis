@@ -55,7 +55,13 @@ Install dependencies:
 pip install pandas, numpy, matplotlib and seaborn
 Open the Jupyter Notebook and run the analysis.
 
+📬 Connect
+
+🔗 LinkedIn :-  https://www.linkedin.com/in/abhishek-bakare-159161258/
+
+📧 Email :- abhishekbakare1005@example.com
 
 🤝 Contributing
+
 Feel free to fork this repository and contribute improvements!
 
